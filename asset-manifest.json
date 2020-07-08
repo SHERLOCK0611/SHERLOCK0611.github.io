@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/misc/sherlock/static/css/main.2b6c205e.chunk.css",
+    "main.js": "/misc/sherlock/static/js/main.a366f7e2.chunk.js",
+    "main.js.map": "/misc/sherlock/static/js/main.a366f7e2.chunk.js.map",
+    "runtime-main.js": "/misc/sherlock/static/js/runtime-main.eb820a2c.js",
+    "runtime-main.js.map": "/misc/sherlock/static/js/runtime-main.eb820a2c.js.map",
+    "static/css/2.1af7a3c5.chunk.css": "/misc/sherlock/static/css/2.1af7a3c5.chunk.css",
+    "static/js/2.8fc04938.chunk.js": "/misc/sherlock/static/js/2.8fc04938.chunk.js",
+    "static/js/2.8fc04938.chunk.js.map": "/misc/sherlock/static/js/2.8fc04938.chunk.js.map",
+    "index.html": "/misc/sherlock/index.html",
+    "precache-manifest.a5826e6e7711d7be40da9628683b9d65.js": "/misc/sherlock/precache-manifest.a5826e6e7711d7be40da9628683b9d65.js",
+    "service-worker.js": "/misc/sherlock/service-worker.js",
+    "static/css/2.1af7a3c5.chunk.css.map": "/misc/sherlock/static/css/2.1af7a3c5.chunk.css.map",
+    "static/css/main.2b6c205e.chunk.css.map": "/misc/sherlock/static/css/main.2b6c205e.chunk.css.map",
+    "static/js/2.8fc04938.chunk.js.LICENSE.txt": "/misc/sherlock/static/js/2.8fc04938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb820a2c.js",
+    "static/css/2.1af7a3c5.chunk.css",
+    "static/js/2.8fc04938.chunk.js",
+    "static/css/main.2b6c205e.chunk.css",
+    "static/js/main.a366f7e2.chunk.js"
+  ]
+}
